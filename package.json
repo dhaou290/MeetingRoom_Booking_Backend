@@ -1,0 +1,19 @@
+{
+  "name": "meeting-room",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhaou290/MeetingRoom_Booking_Backend.git"
+  },
+  "author": "dhaou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhaou290/MeetingRoom_Booking_Backend/issues"
+  },
+  "homepage": "https://github.com/dhaou290/MeetingRoom_Booking_Backend#readme"
+}
