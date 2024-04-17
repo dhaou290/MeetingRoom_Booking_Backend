@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dhaou290/MeetingRoom_Booking_Backend/issues"
   },
-  "homepage": "https://github.com/dhaou290/MeetingRoom_Booking_Backend#readme"
+  "homepage": "https://github.com/dhaou290/MeetingRoom_Booking_Backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
